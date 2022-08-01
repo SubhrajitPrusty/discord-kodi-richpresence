@@ -1,0 +1,4 @@
+tmp*
+.env
+logs/*
+.ropeproject/*

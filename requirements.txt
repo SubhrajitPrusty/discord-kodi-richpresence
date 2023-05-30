@@ -1,4 +1,4 @@
 pypresence==4.2.1
 loguru==0.5.3
-requests==2.27.1
+requests==2.31.0
 python-dotenv==0.20.0
